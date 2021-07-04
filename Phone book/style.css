@@ -1,0 +1,25 @@
+li{
+    list-style: none;
+    border: 1px solid blue;  
+}
+
+.First{
+    background-color: blueviolet;
+    position: sticky;
+    top: 20px;
+}
+
+h1{
+    margin: 40px 500px;
+}
+
+div{
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    overflow: scroll;
+    margin: 40px auto;
+}
+
+
+
