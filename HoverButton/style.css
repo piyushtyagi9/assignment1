@@ -1,0 +1,24 @@
+button{
+    border:2px solid orange;
+    width: 100px;
+    height: 40px;
+    color: orange;
+    background-color: black;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    
+}
+
+button:hover{
+    color: yellow;
+    border-color: yellow;
+    transform: translateY(-4px);
+    box-shadow: 0 4px 5px -2px yellow;
+
+}
